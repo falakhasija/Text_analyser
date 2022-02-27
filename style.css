@@ -74,6 +74,9 @@
     padding: 15px 40px;
     border-radius: 4px;
     cursor: pointer;
+       color: blueviolet;
+    font-style: italic;
+    font-size: 20px;
   }
   textarea:focus {
     outline: none;
